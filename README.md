@@ -1,0 +1,1 @@
+# com.manarc.csp.sdk.java
